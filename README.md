@@ -1,4 +1,7 @@
-# The Reinforcement Learning Toybox ![CI](https://github.com/toybox-rs/Toybox/workflows/CI/badge.svg)
+# The Reinforcement Learning Toybox (tensorflow 1.x, openai-baselines checked-in)
+
+### Frozen version of Toybox that supports Tensorflow 1.x and OpenAI Baselines. 
+### Visit [toybox-rs/Toybox](https://github.com/toybox-rs/Toybox) for the continuously-maintaned version.
 
 A set of games designed for testing deep RL agents.
 
